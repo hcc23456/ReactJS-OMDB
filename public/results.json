@@ -1,0 +1,122 @@
+[
+    {
+        "Title": "Frozen",
+        "Year": "2013",
+        "Rated": "PG",
+        "Released": "27 Nov 2013",
+        "Runtime": "102 min",
+        "Genre": "Animation, Adventure, Comedy",
+        "Director": "Chris Buck, Jennifer Lee",
+        "Writer": "Jennifer Lee, Hans Christian Andersen, Chris Buck",
+        "Actors": "Kristen Bell, Idina Menzel, Jonathan Groff",
+        "Plot": "When the newly crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather co...",
+        "Language": "English, Norwegian",
+        "Country": "United States",
+        "Awards": "Won 2 Oscars. 82 wins & 60 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.4/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "90%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "75/100"
+            }
+        ],
+        "Metascore": "75",
+        "imdbRating": "7.4",
+        "imdbVotes": "618,349",
+        "imdbID": "tt2294629",
+        "Type": "movie",
+        "DVD": "18 Mar 2014",
+        "BoxOffice": "$400,953,009",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Batman",
+        "Year": "1989",
+        "Rated": "PG-13",
+        "Released": "23 Jun 1989",
+        "Runtime": "126 min",
+        "Genre": "Action, Adventure",
+        "Director": "Tim Burton",
+        "Writer": "Bob Kane, Sam Hamm, Warren Skaaren",
+        "Actors": "Michael Keaton, Jack Nicholson, Kim Basinger",
+        "Plot": "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.",
+        "Language": "English, French, Spanish",
+        "Country": "United States, United Kingdom",
+        "Awards": "Won 1 Oscar. 9 wins & 26 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZDNjOGNhN2UtNmNhMC00YjU4LWEzMmUtNzRkM2RjN2RiMjc5XkEyXkFqcGdeQXVyMTU0OTM5ODc1._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "7.5/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "73%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "69/100"
+            }
+        ],
+        "Metascore": "69",
+        "imdbRating": "7.5",
+        "imdbVotes": "374,877",
+        "imdbID": "tt0096895",
+        "Type": "movie",
+        "DVD": "22 Aug 1997",
+        "BoxOffice": "$251,409,241",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    },
+    {
+        "Title": "Top Gun",
+        "Year": "1986",
+        "Rated": "PG",
+        "Released": "16 May 1986",
+        "Runtime": "110 min",
+        "Genre": "Action, Drama",
+        "Director": "Tony Scott",
+        "Writer": "Jim Cash, Jack Epps Jr., Ehud Yonay",
+        "Actors": "Tom Cruise, Tim Robbins, Kelly McGillis",
+        "Plot": "As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.",
+        "Language": "English",
+        "Country": "United States",
+        "Awards": "Won 1 Oscar. 11 wins & 5 nominations total",
+        "Poster": "https://m.media-amazon.com/images/M/MV5BZjQxYTA3ODItNzgxMy00N2Y2LWJlZGMtMTRlM2JkZjI1ZDhhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+        "Ratings": [
+            {
+                "Source": "Internet Movie Database",
+                "Value": "6.9/10"
+            },
+            {
+                "Source": "Rotten Tomatoes",
+                "Value": "58%"
+            },
+            {
+                "Source": "Metacritic",
+                "Value": "50/100"
+            }
+        ],
+        "Metascore": "50",
+        "imdbRating": "6.9",
+        "imdbVotes": "414,099",
+        "imdbID": "tt0092099",
+        "Type": "movie",
+        "DVD": "20 Oct 1998",
+        "BoxOffice": "$180,258,178",
+        "Production": "N/A",
+        "Website": "N/A",
+        "Response": "True"
+    }
+]
