@@ -7,7 +7,8 @@ const Movie = ({ movie }) => { //make sure props "name" is same as in parent
   const [showLabel, setShowLabel] = useState(false);
   
   useEffect(() => {
-    if(movie && movie.length > 0){
+    if(movie && movie.length > 0){ 
+        //movie[0] here because local data, api will never have this, only returns 1
         setPoster(movie[0].Poster);
         setTitle(movie[0].Title);
         setYear(movie[0].Year);

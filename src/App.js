@@ -32,7 +32,7 @@ function App() {
   }
 
   /*const fetchDataFromAPI = async () => {
-    await fetch('https://jsonplaceholder.typicode.com/todos/1')
+    await fetch('omdb api with api key')
     .then(response => response.json())
     .then(data => setMovie(data))
     .catch((error) => {
